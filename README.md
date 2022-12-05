@@ -9,6 +9,8 @@ images:
 
 ![lobby list](https://raw.githubusercontent.com/ryan-west-casino/bowie-media/main/bowie-lobby-list-auth.png)
 
+![three in a row game](https://raw.githubusercontent.com/ryan-west-casino/bowie-media/main/bowie-threeinarow-game.png)
+
 ![rock paper scissors game](https://raw.githubusercontent.com/ryan-west-casino/bowie-media/main/bowie-rps-game.png)
 
 ![game rules](https://raw.githubusercontent.com/ryan-west-casino/bowie-media/main/bowie-game-rules.png)
